@@ -1,0 +1,70 @@
+
+
+
+.cart-top{
+    background-color:lightblue;
+    height: 5rem;
+    border-radius: 1rem;
+    margin-top: 0.5rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    margin-bottom: 0.5rem;
+display: flex;
+justify-content: flex-end;
+
+}
+
+
+.cart-img{
+    height: 100px;
+    width: 150px;
+}
+
+.cart-table{
+    
+    
+    border-radius: 0.5rem;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: left;
+    margin-left: 7rem;
+   
+}
+
+.cart-button{
+
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 0.5rem;
+    margin-right: 1rem;
+
+    
+    
+       
+}
+
+.cart-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 0.75rem;
+    font-weight: 900;
+    margin-right: 35rem;
+}
+.table-design{
+    border: solid brown;
+    background-color: beige;
+}
+
+.payment{
+    margin-left: 5rem;
+background-color: beige;
+border: solid brown;
+
+}
+.upi img{
+    height:80px;
+    width: 80px;
+    border-radius: 1rem;
+
+     
+}
